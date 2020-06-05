@@ -1,0 +1,3 @@
+[submodule "kvlty"]
+	path = kvlty
+	url = git@github.com:alikoneko/kvlt-hipster-metal.git
